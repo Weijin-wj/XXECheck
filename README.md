@@ -1,5 +1,5 @@
 # XXECheck
-[Englist](README.en.md)
+[English](README.en.md)
 
 ## 简介
 
